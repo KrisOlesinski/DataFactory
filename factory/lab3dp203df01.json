@@ -1,0 +1,9 @@
+{
+	"name": "lab3dp203df01",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e238085e-4626-42db-9c05-d0441383eaec",
+		"tenantId": "e65107ae-deaa-4f76-b79e-c4b5067a5929"
+	}
+}
